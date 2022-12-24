@@ -3,10 +3,10 @@ body{
     font-family: cursive;
     margin: 0;
 }
-.logo{
+.introduction{
     text-align: center;
 }
-.logo a{
+.introduction a{
     text-decoration: none;
     text-align: center;
 
@@ -116,8 +116,6 @@ header{
 
     font-weight: bold;
     box-shadow: 0 0 1em rgba(0,0,0,0.4);
-
-
 }
 .product:last-of-type{
     margin-bottom: 30px;
@@ -164,7 +162,6 @@ header{
     font-size: 2em;
     color: green;
 }
-
 footer{
     background-color: rgb(175, 105, 175);
     
@@ -224,7 +221,7 @@ footer{
         flex: 0 1 33%;
     }
     .product:last-of-type{
-     margin-bottom: 0.6%;   
+     margin-bottom: 5px;   
     }
     
 }
